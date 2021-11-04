@@ -31,8 +31,8 @@ https://docs.platformio.org/en/latest/plus/debug-tools/esp-prog.html
 | 1   | EN      | EN / CHIP_PU   |
 | 3   | TxD     | GPIO01 / U0TxD |
 | 5   | RxD     | GPIO03 / U0RxD |
-| 2   | VProg   |                |
-| 4   | GND     |                |
+| 2   | VProg   | (3V3)          |
+| 4   | GND     | (GND)          |
 | 6   | IO0     | GPIO0          |
 
 

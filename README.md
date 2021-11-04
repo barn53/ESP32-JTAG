@@ -5,8 +5,8 @@ https://docs.platformio.org/en/latest/plus/debug-tools/esp-prog.html
 
 # Wiring ESP-Prog
 
-## JTAG Connector
-### JTAG debugging connection
+### JTAG Connector
+#### JTAG debugging connection
 
 || ESP-Prog Pin | ESP32 Pin     |
 |:-: |    :-:   |    :-:        |
@@ -23,8 +23,8 @@ https://docs.platformio.org/en/latest/plus/debug-tools/esp-prog.html
 
 
 
-## PROG Connector
-### Serial port for uploading/monitoring
+### PROG Connector
+#### Serial port for uploading/monitoring
 
 || ESP-Prog Pin | ESP32 Pin      |
 | :-: |    :-:  |    :-:         |

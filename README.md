@@ -3,7 +3,7 @@ Minimal ESP32 project with JTAG debugger ESP-Prog
 
 https://docs.platformio.org/en/latest/plus/debug-tools/esp-prog.html
 
-# Wiring ESP-Prog
+## Wiring ESP-Prog
 
 ### JTAG Connector
 #### JTAG debugging connection

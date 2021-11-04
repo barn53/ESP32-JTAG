@@ -19,7 +19,8 @@ https://docs.platformio.org/en/latest/plus/debug-tools/esp-prog.html
 | 6  | TDO      | GPIO15 / MTDO |
 | 8  | TDI      | GPIO12 / MTDI |
 | 10 | NC       |               |
-|    |          |               |
+
+
 
 ## PROG Connector
 
@@ -31,7 +32,7 @@ https://docs.platformio.org/en/latest/plus/debug-tools/esp-prog.html
 | 2   | VProg   |                |
 | 4   | GND     |                |
 | 6   | IO0     | GPIO0          |
-|     |         |                |
+
 
 ![image](https://embeddedcomputing.weebly.com/uploads/1/1/6/2/11624344/esp32-pico-prog_orig.png)
 https://embeddedcomputing.weebly.com/uploads/1/1/6/2/11624344/esp32-pico-prog_orig.png

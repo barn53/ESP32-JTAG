@@ -24,7 +24,7 @@ https://docs.platformio.org/en/latest/plus/debug-tools/esp-prog.html
 
 
 ### PROG Connector
-#### Serial port for uploading/monitoring
+#### Serial COM port for uploading/monitoring
 
 || ESP-Prog Pin | ESP32 Pin      |
 | :-: |    :-:  |    :-:         |
